@@ -10,7 +10,7 @@ function ContentBanner() {
                     </p> */}
                     <h2
                         className="text-white text-5xl"
-                    >Tên Phim Là Thân Chém Gió</h2>
+                    >Mai</h2>
                     {/* <div className="flex items-center space-x-3">
                         <img className="w-8 h-8" src={IMAGES.rating} alt="rating" />
                         <img className="w-8 h-8" src={IMAGES.rating} alt="rating" />
