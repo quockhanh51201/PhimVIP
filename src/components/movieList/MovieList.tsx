@@ -22,7 +22,7 @@ const responsive = {
     },
     tablet: {
         breakpoint: { max: 1200, min: 600 },
-        items: 3
+        items: 4
     },
     mobile: {
         breakpoint: { max: 600, min: 0 },
